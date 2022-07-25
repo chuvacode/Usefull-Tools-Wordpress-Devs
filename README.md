@@ -2,7 +2,7 @@
 Useful tools for Wordpress developers
 
 
-### Generator Template Wordpress Plugin
+### Generator Template Plugin
 
 https://wordpresslab.ru/generator-wordpress-plaginov/
 
